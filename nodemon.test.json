@@ -1,0 +1,6 @@
+{
+	"watch": ["src/specs/*.spec.js"],
+	"ext": "js",
+	"ignore": [],
+	"exec": "mocha --timeout 100000"
+}
